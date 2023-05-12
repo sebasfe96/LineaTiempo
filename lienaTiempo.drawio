@@ -1,0 +1,313 @@
+<mxfile host="app.diagrams.net" modified="2023-05-12T19:00:38.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="YxB1XoMW43DPMO06P5A-" version="21.2.9" type="device">
+  <diagram name="Page-1" id="zR3_bkN4j8gsv1au7SDV">
+    <mxGraphModel dx="3627" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="D1ftuebn98l-lJjMgAOT-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-620" y="580" as="sourcePoint" />
+            <mxPoint x="1280" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-580" y="580" as="sourcePoint" />
+            <mxPoint x="-580" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-3" value="Primera Generación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-510" y="580" as="sourcePoint" />
+            <mxPoint x="-510" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-5" value="La computadoras funcionaban por medio de tarjetas perforadas en donde habían datos y programas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="430" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-6" value="1950" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-430" y="580" as="sourcePoint" />
+            <mxPoint x="-430" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-8" value="Primera computadora comercial. Mauchly y Eckert fundadores de la compañía Universal Computer, donde el primer producto fue esta maquina que utilizaba 5200 tubos de vacio y consumia 125kW" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-625" y="330" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-9" value="1951" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-360" y="580" as="sourcePoint" />
+            <mxPoint x="-363" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-11" value="IBM&lt;br&gt;Su tarea era basicamente comenzar la ejecución de un programa cuando el anterior terminaba" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="250" width="227" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-12" value="1956" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-13" value="1957" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-323" y="585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.839;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="D1ftuebn98l-lJjMgAOT-13" target="D1ftuebn98l-lJjMgAOT-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-270" y="510" as="sourcePoint" />
+            <mxPoint x="-273" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-15" value="FORTRAN&lt;br&gt;Desarrollado por IBM en 1957, es un acronimo de formula translation, diseñado para la manipulacion de formulas cientificas y aplicabilidad de metodos numericos a la solucion de prtoblemas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="150" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="D1ftuebn98l-lJjMgAOT-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-203" y="580" as="sourcePoint" />
+            <mxPoint x="-173" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-18" value="Segunda Generación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-263" y="630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-19" value="1968" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-20" value="1967" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-21" value="1966" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-22" value="1965" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-23" value="1969" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0.788;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="D1ftuebn98l-lJjMgAOT-25" source="D1ftuebn98l-lJjMgAOT-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="590" as="sourcePoint" />
+            <mxPoint x="-60" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-25" value="Usaban transistores para procesar la información, tenían pequeños anillos magnéticos para almacenar instrucciones e información. Disminución de tamaño pero eran lentas. y surgen los conceptos de multitarea." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="670" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.813;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="D1ftuebn98l-lJjMgAOT-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="585" as="sourcePoint" />
+            <mxPoint y="665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-28" value="Aparición de multiprogramación y sistemas multiusuarios. buscaron simplificar el código" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="780" width="235" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-30" value="Lenguajes de programacion de alto nivel: los programas estaba elaborados con un mejor diseño y esto permitia un mayor control de los procesos, los primeros fueron codificados en lenguaje FORTRAN y los ultimos en COBAL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-263" y="850" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0.868;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="D1ftuebn98l-lJjMgAOT-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="590" as="sourcePoint" />
+            <mxPoint x="-19" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-32" value="El lenguaje COBOL(Lenguaje orientado a negocios) fue creado con el objetivo de un lenguaje universal que pueda ser usado en cualquier ordenador" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="940" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0.868;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="D1ftuebn98l-lJjMgAOT-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="590" as="sourcePoint" />
+            <mxPoint x="54" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-34" value="El mantenimiento de software y la evolución de los sistemas fue abordada por primera vez por Meir M. Lehman en 1969. durante un periodo de 20 años, su investigación condujo a la formulación de las leyes de Lehman" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="1030" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.868;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="D1ftuebn98l-lJjMgAOT-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="158" y="590" as="sourcePoint" />
+            <mxPoint x="114" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="590" as="sourcePoint" />
+            <mxPoint x="280" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-37" value="Tercera Generación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="510" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="590" as="sourcePoint" />
+            <mxPoint x="340" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-39" value="Sistemas distribuidos&lt;br&gt;Es una colección de computadoras separadas físicamente y conectadas entre si por una red de comunicaciones, cada maquina posee sus componentes de hardware y software que el programador percibe como un solo sistema" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="360" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="590" as="sourcePoint" />
+            <mxPoint x="410" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-41" value="Microprocesadores&lt;br&gt;estos producen un extenso grupo de productos inteligentes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="590" as="sourcePoint" />
+            <mxPoint x="470" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-43" value="Minicomputadoras&lt;br&gt;Aparición de las minicomputadoras que eran un sistema multiproceso" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="590" as="sourcePoint" />
+            <mxPoint x="530" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-45" value="Apple ll sistema operativo para la serie de microordenadores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="590" as="sourcePoint" />
+            <mxPoint x="590" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-47" value="Bill Gates y Alien, crean el nuevo Microsoft Disk Operating System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="30" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-48" value="1978" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-49" value="1978" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-50" value="1977" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-51" value="1975" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-52" value="1980" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-55" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="D1ftuebn98l-lJjMgAOT-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="590" as="sourcePoint" />
+            <mxPoint x="720" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-56" value="Cuarta Generación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-59" value="" style="endArrow=none;html=1;rounded=0;entryX=0.788;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="D1ftuebn98l-lJjMgAOT-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="590" as="sourcePoint" />
+            <mxPoint x="790" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-60" value="La empresa Microsoft, lanza Windows 1.0&lt;br&gt;Primer SO de mayor difusión entre computadoras personales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="680" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-61" value="" style="endArrow=none;html=1;rounded=0;entryX=0.788;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="D1ftuebn98l-lJjMgAOT-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="590" as="sourcePoint" />
+            <mxPoint x="840" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-62" value="Se reemplaza la memoria de anillos por una de chip de silicio, posteriormente se desarrollan las computadoras personales." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="750" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-63" value="" style="endArrow=none;html=1;rounded=0;entryX=0.788;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="D1ftuebn98l-lJjMgAOT-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="590" as="sourcePoint" />
+            <mxPoint x="890" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-64" value="Impacto colectivo del software" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="820" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-65" value="" style="endArrow=none;html=1;rounded=0;entryX=0.788;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="D1ftuebn98l-lJjMgAOT-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="590" as="sourcePoint" />
+            <mxPoint x="940" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-66" value="Tecnologia orientada a objetos(TOO) es un enfoque sobre la manera de organizar las diferentes piezas que conforman un sistema de informacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="880" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-68" value="1988" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-69" value="1985" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="775" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-70" value="1985" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-72" value="1985" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-73" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="590" as="sourcePoint" />
+            <mxPoint x="1050" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-74" value="Quinta Generación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="510" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-75" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="590" as="sourcePoint" />
+            <mxPoint x="1100" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-76" value="Se acelera la microelectrónica, se desarrolla el software y los sistemas de cómputos. Surge la pc actual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="440" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-77" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="590" as="sourcePoint" />
+            <mxPoint x="1150" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-78" value="Aumenta la omnipresencia de la web" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="390" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-79" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="590" as="sourcePoint" />
+            <mxPoint x="1201" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-80" value="SO basado en el kernel de Linux diseñado principalmente para dispositivos móviles, tabletas, televisores, y automóviles. Inicialmente desarrollado por Android.&lt;br&gt;Google respaldó económicamente y mas tarde compro esta empresa en 2005" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="300" width="311" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-82" value="2007" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-83" value="1996" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1ftuebn98l-lJjMgAOT-84" value="2000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1122" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
